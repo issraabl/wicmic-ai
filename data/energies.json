@@ -1,0 +1,32 @@
+[
+  {
+    "idEnergie": 1,
+    "nom": "Electricité",
+    "unite": "kWh",
+    "description": "energie",
+    "facteurConversion": 1,
+    "couleur": "#6366f1",
+    "dateCreation": "2026-04-14T08:00:00",
+    "mesures": []
+  },
+  {
+    "idEnergie": 2,
+    "nom": "Gazoil",
+    "unite": "L",
+    "description": null,
+    "facteurConversion": null,
+    "couleur": null,
+    "dateCreation": "2026-04-14T08:00:00",
+    "mesures": []
+  },
+  {
+    "idEnergie": 3,
+    "nom": "Eau",
+    "unite": "m3",
+    "description": null,
+    "facteurConversion": null,
+    "couleur": null,
+    "dateCreation": "2026-04-14T08:00:00",
+    "mesures": []
+  }
+]

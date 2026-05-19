@@ -1,0 +1,68 @@
+[
+  {
+    "idEquipement": 2,
+    "nom": "Machine Coupe 1",
+    "typeEquipement": "Machine textile",
+    "statut": "Actif",
+    "puissance": 2000.0,
+    "localisation": "Zone Production",
+    "energieNom": "Electricité",
+    "zoneNom": "Zone Productionn",
+    "dateInstallation": "2026-04-02T08:00:00"
+  },
+  {
+    "idEquipement": 3,
+    "nom": "Machine Emballage 1",
+    "typeEquipement": "Machine packaging",
+    "statut": "Actif",
+    "puissance": 800.0,
+    "localisation": "Zone Logistique",
+    "energieNom": "Electricité",
+    "zoneNom": "Zone Production 2",
+    "dateInstallation": "2026-04-03T08:00:00"
+  },
+  {
+    "idEquipement": 4,
+    "nom": "Compresseur C1",
+    "typeEquipement": "Compresseur",
+    "statut": "Actif",
+    "puissance": 690.0,
+    "localisation": "Atelier A",
+    "energieNom": "",
+    "zoneNom": "",
+    "dateInstallation": "2026-04-14T00:00:00"
+  },
+  {
+    "idEquipement": 5,
+    "nom": "c1",
+    "typeEquipement": "Machine textile",
+    "statut": "Actif",
+    "puissance": 548.0,
+    "localisation": "abbbb",
+    "energieNom": "Electricité",
+    "zoneNom": "Zone Productionn",
+    "dateInstallation": "2026-05-06T00:00:00"
+  },
+  {
+    "idEquipement": 6,
+    "nom": "comppp4",
+    "typeEquipement": "Chaudière",
+    "statut": "Actif",
+    "puissance": 155.0,
+    "localisation": "at 2",
+    "energieNom": "",
+    "zoneNom": "Zone Productionn",
+    "dateInstallation": "2026-05-07T00:00:00"
+  },
+  {
+    "idEquipement": 7,
+    "nom": "kk",
+    "typeEquipement": "Pompe",
+    "statut": "Actif",
+    "puissance": 55.0,
+    "localisation": "kkk",
+    "energieNom": "Electricité",
+    "zoneNom": "",
+    "dateInstallation": "2026-05-12T00:00:00"
+  }
+]

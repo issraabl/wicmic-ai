@@ -1,0 +1,92 @@
+[
+  {
+    "energie": "Electricité",
+    "unite": "kWh",
+    "moisActuel": 9127.0,
+    "moisPrecedent": 31835.85,
+    "moyenne": 22769.91,
+    "variation": -71.3,
+    "historique": [
+      {
+        "mois": "2026-01",
+        "total": 20347.7
+      },
+      {
+        "mois": "2026-02",
+        "total": 26094.7
+      },
+      {
+        "mois": "2026-03",
+        "total": 26444.3
+      },
+      {
+        "mois": "2026-04",
+        "total": 31835.85
+      },
+      {
+        "mois": "2026-05",
+        "total": 9127.0
+      }
+    ]
+  },
+  {
+    "energie": "Gazoil",
+    "unite": "L",
+    "moisActuel": 13970.3,
+    "moisPrecedent": 13739.0,
+    "moyenne": 16467.64,
+    "variation": 1.7,
+    "historique": [
+      {
+        "mois": "2026-01",
+        "total": 18141.1
+      },
+      {
+        "mois": "2026-02",
+        "total": 17581.4
+      },
+      {
+        "mois": "2026-03",
+        "total": 18906.4
+      },
+      {
+        "mois": "2026-04",
+        "total": 13739.0
+      },
+      {
+        "mois": "2026-05",
+        "total": 13970.3
+      }
+    ]
+  },
+  {
+    "energie": "Eau",
+    "unite": "m3",
+    "moisActuel": 35439.7,
+    "moisPrecedent": 34121.8,
+    "moyenne": 24838.88,
+    "variation": 3.9,
+    "historique": [
+      {
+        "mois": "2026-01",
+        "total": 23323.2
+      },
+      {
+        "mois": "2026-02",
+        "total": 14653.4
+      },
+      {
+        "mois": "2026-03",
+        "total": 16656.3
+      },
+      {
+        "mois": "2026-04",
+        "total": 34121.8
+      },
+      {
+        "mois": "2026-05",
+        "total": 35439.7
+      }
+    ]
+  }
+]
